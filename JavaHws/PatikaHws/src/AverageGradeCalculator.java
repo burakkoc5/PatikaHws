@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class AverageGradeCalculator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int math, phys, chem, tur, hist, music;
 		double averageGrade= 0;
 		
